@@ -1,0 +1,19 @@
+#EXTM3U
+
+# BANDEIRA: RÁDIOS IN TALIAN / SERA GAÚCHA
+#EXTINF:-1 tvg-logo="https://radiotalian.com.br" group-title="Sera Gaúcha - Parlar in Talian",Ràdio Talian (Bento Gonsalves)
+https://leouve.com.br
+#EXTINF:-1 group-title="Sera Gaúcha - Parlar in Talian",Ràdio Difusora 97.3 FM (Bento Gonsalves)
+https://crossradio.com.br
+#EXTINF:-1 group-title="Sera Gaúcha - Parlar in Talian",Ràdio Viva 94.5 FM (Farroupilha)
+https://leouve.com.br
+
+# BANDEIRA: CANAI DE TV - REGION DEL VÈNETO (ITÀLIA)
+#EXTINF:-1 tvg-id="Rai3Veneto.it" group-title="Canai de TV del Vèneto",Rai 3 Vèneto (Venesia)
+https://akamaized.net
+#EXTINF:-1 tvg-id="Antena3Veneto.it" group-title="Canai de TV del Vèneto",Antena 3 Vèneto
+https://telebelluno.it
+#EXTINF:-1 tvg-id="Telebelluno.it" group-title="Canai de TV del Vèneto",Telebelluno Vèneto
+https://telebelluno.it
+#EXTINF:-1 tvg-id="Telepadova.it" group-title="Canai de TV del Vèneto",Telepàdova (7 Gold)
+http://smrn.it
